@@ -1,7 +1,5 @@
 # Weekly Progress of Khalid #
-## Week (Start Date - End Date) ##
+## Week (19th Feb - 24th Feb) ##
 
 TODO
-- [ ] Task 1
-
-- [ ] Taks 2
+- [ ] Complete the first project: Animal Trading Cards
